@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pravidla - Lovay RP</title>
+    <style>
+        body {
+            margin: 0;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: url('https://images.unsplash.com/photo-1529253355930-1e4d1e04c6c5') no-repeat center center fixed;
+            background-size: cover;
+            color: white;
+            text-shadow: 1px 1px 2px black;
+        }
+
+        .overlay {
+            background-color: rgba(0, 0, 0, 0.6);
+            min-height: 100vh;
+            padding: 40px;
+        }
+
+        h1 {
+            text-align: center;
+            font-size: 3em;
+            margin-bottom: 40px;
+        }
+
+        .rules {
+            max-width: 800px;
+            margin: auto;
+            background-color: rgba(255, 255, 255, 0.1);
+            padding: 30px;
+            border-radius: 15px;
+        }
+
+        .rules p {
+            font-size: 1.2em;
+            margin: 10px 0;
+        }
+    </style>
+</head>
+<body>
+    <div class="overlay">
+        <h1>Pravidla serveru Lovay RP</h1>
+        <div class="rules">
+            <p>// Sem si doplň svá pravidla</p>
+            <p>// Například: Respektuj ostatní hráče</p>
+            <p>// Nebo: Zákaz RDM, VDM, Metagaming atd.</p>
+        </div>
+    </div>
+</body>
+</html>
+
